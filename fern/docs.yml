@@ -4,10 +4,6 @@ instances:
 
 title: Plant Store
 
-layout:
-  searchbar-placement: header
-  page-width: full
-
 navigation:
   - section: Get Started
     contents:
